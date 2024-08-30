@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**nguyentrunghieutcu/nguyentrunghieutcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hello, I'm Hieu Nguyen</h1>
+<h3 align="center">🚀 FrontEnd Developer 🚀</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MODORO ![https://modoro.vn/]
+- 🌱 Languages I have used : Angular, Flutter (Html,Css,TailWind)
+- 👯 Some of the technologies I have worked with : Git, GitHub, GitLabs, Agile Scrum, Jira
+-  Web/Full Stack projects: YBAI 
+-  APP project: Bikility, Van hoa Modoro
+- 💬 Ask me about Web dev related Stuff
+- 📫 How to reach me: nguyentrunghieutcu@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social: 
+- Thread: @hieu.modoro
+- Tiktok: @hieu.modoro
