@@ -3,7 +3,7 @@
 <h3 align="center">🚀 FrontEnd Developer 🚀</h3>
 
 - 🔭 I’m currently working on MODORO ![https://modoro.vn/]
-- 🌱 Languages I have used : Angular, Flutter (Html,Css,TailWind)
+- 🌱 Languages I have used : Angular, Flutter
 - 👯 Some of the technologies I have worked with : Git, GitHub, GitLabs, Agile Scrum, Jira
 - 💼 Web/Full Stack projects: YBAI 
 - 💼 APP project: Bikility, Van hoa Modoro
