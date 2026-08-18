@@ -6,7 +6,7 @@
 - 🌱 Languages I have used : Angular, Flutter, NEXT
 - 👯 Some of the technologies I have worked with : Git, GitHub, GitLabs, Agile Scrum, Jira
 - 💼 Web/Full Stack projects: YBAI 
-- 💼 APP project: Bikility, Van hoa Modoro
+- 💼 APP project: PDCA Success,Bikility, Van hoa Modoro, Badminton Smash
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me: nguyentrunghieutcu@gmail.com
 
